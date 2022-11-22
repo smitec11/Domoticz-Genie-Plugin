@@ -43,7 +43,7 @@ Configure plugin:
 - _Password_ - password for rituals account
 - click _Add_ button
 
-###![image](https://user-images.githubusercontent.com/51033177/156994675-d5a94703-c397-42c7-8075-9dd1818e5866.png)
+###![image](https://user-images.githubusercontent.com/53621277/203342700-c2a6a488-e48c-4f96-9ad2-c938f7fed74c.png)
 
 Plugin will create 5 devices per genie and shows them in related device tabs (Switches, Utilities):
 
@@ -53,8 +53,7 @@ Plugin will create 5 devices per genie and shows them in related device tabs (Sw
 - Perfume (Text device)
 - Fill (Text device)
 
-##![image](https://user-images.githubusercontent.com/51033177/156995214-520f192f-b294-46e6-9bd5-108491ce26e6.png)
-
+##![image](https://user-images.githubusercontent.com/53621277/203342924-d119db5a-4df3-401a-9618-363bc31483ce.png)
 
 ### Thanks to
 this plugin is based on code of 
