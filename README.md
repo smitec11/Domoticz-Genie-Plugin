@@ -40,7 +40,7 @@ Configure plugin:
 
 - _Name_ - name of Genie hardware device in Domoticz (i.e. Genie)
 - _Cloud account Email_ - email address for Rituals account
-- _Could account password_ - password for Rituals account
+- _Cloud account password_ - password for Rituals account
 - click _Add_ button
 
 ![image](https://user-images.githubusercontent.com/53621277/203342700-c2a6a488-e48c-4f96-9ad2-c938f7fed74c.png)
