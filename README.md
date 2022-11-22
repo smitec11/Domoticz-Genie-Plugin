@@ -34,7 +34,7 @@ Supported Genie versions:
 
 ### Configuration
 
-From Domoticz web UI, go to _Setup -> Hardware_ and select _Rituals Genie_Plugin from drop-down menu.
+From Domoticz web UI, go to _Setup -> Hardware_ and select _Rituals Genie plugin_ from drop-down menu.
 
 Configure plugin:
 
