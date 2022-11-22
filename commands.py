@@ -200,7 +200,6 @@ class Account:
     def get_devices(self, url: str = ACCOUNT_URL) -> list[Diffuser]:
 #        """Get all devices linked to the account."""
         response = requests.get(f'{url}/{self.account_hash}')
-#        resp_data = response.json()
         return [Diffuser(device_data) for device_data in response.json()]
 
 
