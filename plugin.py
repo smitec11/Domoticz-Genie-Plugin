@@ -110,7 +110,7 @@ class BasePlugin:
         idx = ((Unit-1) // 5)
         tUnit = Unit - ((int((Unit - 1) / 5)) * 5)
 
-        for diffuser in my_devices:
+        for diffuser in self.my_devices:
             if (diffuser.hash == idxtable[idx]): # hash matches
                 if (tUnit == 1):     # On Off Control
                     if (Command == "On"):
