@@ -10,9 +10,9 @@ Currently, the following functions are implemented:
 
 - Supports multiple devices, for those who have more than one Genie
 - On / Off
-- Set Perfume Amount
+- Set Perfume amount
 - Set Room Size
-- Show Perfume
+- Show Perfume name
 - Show Fill percentage
 
 Supported Domoticz versions:
