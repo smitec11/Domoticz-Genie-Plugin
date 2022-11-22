@@ -53,7 +53,7 @@ Plugin will create 5 devices per genie and shows them in related device tabs (Sw
 - Perfume (Text device)
 - Fill (Text device)
 
-##![image](https://user-images.githubusercontent.com/53621277/203342924-d119db5a-4df3-401a-9618-363bc31483ce.png)
+###![image](https://user-images.githubusercontent.com/53621277/203342924-d119db5a-4df3-401a-9618-363bc31483ce.png)
 
 ### Thanks to
 this plugin is based on code of 
